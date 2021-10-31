@@ -4,6 +4,10 @@
   font-family: 'poppins', sans-serif;
 }
 
+.raw{
+  
+}
+
 .heading{
   display: flex;
   justify-content: space-between;
